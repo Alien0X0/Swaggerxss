@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/Alien0X0/Swaggerxss/blob/main/xss.yaml",
+    "url": "https://raw.githubusercontent.com/Alien0X0/Swaggerxss/refs/heads/main/xss.yaml",
     "urls": [
         {
-            "url": "https://github.com/Alien0X0/Swaggerxss/blob/main/xss.yaml",
+            "url": "https://raw.githubusercontent.com/Alien0X0/Swaggerxss/refs/heads/main/xss.yaml",
             "name": "Foo"
         }
     ]
