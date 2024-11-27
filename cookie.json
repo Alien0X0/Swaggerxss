@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/Alien0X0/Swaggerxss/refs/heads/main/cookie.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Alien0X0/Swaggerxss/refs/heads/main/cookie.yaml",
+            "name": "Foo"
+        }
+    ]
+}
